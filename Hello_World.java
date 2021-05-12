@@ -7,6 +7,8 @@ class Hello_World{
      System.out.println("Testing rebase-2");
      System.out.println("Testing git fetch still pending");
      System.out.println("To test merge in GUI");
+     System.out.println("Testing git fetch testing again"); 
+     System.out.println("Testing git fetch still pending"); 
     }
 }
 
