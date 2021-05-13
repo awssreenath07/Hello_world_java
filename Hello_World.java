@@ -8,7 +8,8 @@ class Hello_World{
      System.out.println("Testing git fetch still pending");
      System.out.println("To test merge in GUI");
      System.out.println("Testing git fetch testing again"); 
-     System.out.println("Testing git fetch still pending"); 
+     System.out.println("Testing git fetch still pending");
+     System.out.println("New line added to test POLL-SCM"); 
     }
 }
 
